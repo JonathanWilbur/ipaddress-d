@@ -1,0 +1,7 @@
+{
+	"name": "ipaddress",
+	"description": "A Library for Strongly-Typed IPv4 and IPv6 Addresses",
+	"authors": [ "Jonathan M. Wilbur" ],
+	"license": "BSL-1.0",
+	"targetType": "library"
+}
